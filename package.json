@@ -84,7 +84,7 @@
     "solium": "^1.2.4",
     "truffle": "^5.1.48",
     "truffle-typings": "^1.0.8",
-    "ts-jest": "^26.4.1",
+    "ts-jest": "^24.0.2",
     "typechain": "^0.3.17"
   },
   "lint-staged": {
